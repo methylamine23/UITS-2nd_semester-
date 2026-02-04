@@ -68,8 +68,6 @@
 
         <h1>Certificate of Participation</h1>
         <div class="subtitle">— awarded to —</div>
-
-        <!-- Replace image.jpg with your image -->
         <img src="https://cdn.britannica.com/94/123894-050-53EC378E/Tim-Berners-Lee-2005.jpg"
              alt="Profile Photo"
              class="photo">
