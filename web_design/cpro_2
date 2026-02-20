@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Department Information</title>
+</head>
+<body>
+
+    <table border="1" width="100%" cellpadding="10">
+        <tr>
+            <th colspan="3">Department</th>
+        </tr>
+
+        <tr>
+            <td><b>CSE</b></td>
+            <td align="center">
+                <table border="1" width="100%" cellpadding="5">
+                    <tr><th colspan="3">Course</th></tr>
+                    <tr>
+                        <td>Course Code</td>
+                        <td>Course Name</td>
+                        <td>Credit</td>
+                    </tr>
+                    <tr>
+                        <td>01</td>
+                        <td>DLD <br> EDC</td>
+                        <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>03</td>
+                        <td>IPL <br> SPL</td>
+                        <td>1.5</td>
+                    </tr>
+                </table>
+                <br>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaLH6-Gl2iIGKSJhAKy6KIo3th32510C2vQ&s" width="200" alt="CSE Logo">
+            </td>
+            <td>
+                <b>Faculty</b>
+                <ol>
+                    <li>MBA</li>
+                    <li>MBR</li>
+                </ol>
+            </td>
+        </tr>
+
+        <tr>
+            <td><b>IT</b></td>
+            <td align="center">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-pbj_gKLffi6q5UR8hXIm_L7msUh2Uk4Lg&s" width="150" alt="IT Logo">
+            </td>
+            <td style="padding: 0;">
+                <table border="1" width="100%" style="border-collapse: collapse; border: none;">
+                    <tr>
+                        <td width="50%" style="border: none; border-right: 1px solid black;">
+                            <b>Faculty</b>
+                            <ol type="i">
+                                <li>SRN</li>
+                                <li>SSR</li>
+                            </ol>
+                        </td>
+                        <td>
+                            <b>Section</b>
+                            <ol type="a" start="4">
+                                <li>A</li>
+                                <li>B</li>
+                                <li>C</li>
+                            </ol>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
